@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @debapriyadutt
 - 👀 I’m interested in AI/DSA
-- 🌱 I’m currently learning GenAI,DSA Python
+- 🌱 I’m currently learning GenAI,DSA Python,JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me debopriyorik(Insta)
 - 😄 Pronouns:He/Him/His
